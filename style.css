@@ -15,6 +15,7 @@
 }
 .nav-left{
   font-family: cursive;
+  font-size: 18px;
   padding-left:150px;
   color: white;
 }
@@ -24,4 +25,16 @@
 }
 .mid-col{
   font-size: 9px;
+}
+.featured{
+font-family: 'Arvo', serif;
+color: white;
+}
+.start-now{
+font-family: 'Arvo', serif;
+color: white;
+}
+.head-text{
+  font-family: 'Arvo', serif;
+  color: white;
 }
