@@ -5,16 +5,23 @@
 .bold-text{
   font-weight: bold;
 }
-.btn{
+.btn-1{
   border-radius:50px;
+  background-color: #4d9ac2;
 }
-
+.btn-2{
+  border-radius:50px;
+  background-color: #4d9ac2;
+}
 .nav-left{
   font-family: cursive;
-  padding-left:10px;
+  padding-left:150px;
   color: white;
 }
 
 .left-box-rows{
-justify-content: center;
+  padding-left:150px; 
+}
+.mid-col{
+  font-size: 9px;
 }
