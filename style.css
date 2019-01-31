@@ -1,5 +1,5 @@
 .whole-back{
-  background-color: #7cc9e9;
+  background-color: #73c5e6;
   color: white;
 }
 .bold-text{
@@ -7,4 +7,14 @@
 }
 .btn{
   border-radius:50px;
+}
+
+.nav-left{
+  font-family: cursive;
+  padding-left:10px;
+  color: white;
+}
+
+.left-box-rows{
+justify-content: center;
 }
